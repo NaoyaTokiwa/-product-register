@@ -1,4 +1,4 @@
-sudo: required  # sudo権限で実行させる
+sudo: required
 
 services: docker
 
